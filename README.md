@@ -3,9 +3,18 @@
 
 
 
-# Assalamualaikum
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins+Daughter&color=FFFFFF&size=30&lines=Assalamualaikum;Hey!+It's+Ashiq!;I+Do+Backend+Development...;I+work+with+Python-Flusk;And+I'm+a+student+of+CS...)](https://git.io/typing-svg)
+
+
+
+
+### Hello visitor
+
+<img src="https://profile-counter.glitch.me/Md-E-H-Ashiq/count.svg">
 
 ### Thanks for visit me 🙂.
+
+## Something About Me -
 
 I Love Rainbow🌈 and Cloudy weather⛈
 ✈ My Hoby is Travelling🚗
