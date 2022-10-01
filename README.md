@@ -10,7 +10,7 @@
 
 ### Hello visitor
 
-<img src="https://profile-counter.glitch.me/Md-E-H-Ashiq/count.svg">
+<img src="https://profile-counter.glitch.me/emhash/count.svg">
 
 ### Thanks for visit me 🙂.
 
@@ -46,20 +46,20 @@ Skills: PYTHON/ C++/ HTML/FLUSK
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-E-H-Ashiq)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emhash)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-E-H-Ashiq&show_icons=true) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=emhash&show_icons=true) 
 
 <b>&#128200; Programming</b>
 <p float="left">
 
-![](https://raw.githubusercontent.com/Md-E-H-Ashiq/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/emhash/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
 
 </p>
 
-![GitHub metrics](https://metrics.lecoq.io/Md-E-H-Ashiq)  
+![GitHub metrics](https://metrics.lecoq.io/emhash)  
 
-![Profile views](https://gpvc.arturio.dev/Md-E-H-Ashiq)  
+![Profile views](https://gpvc.arturio.dev/emhash)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
@@ -69,10 +69,10 @@ Skills: PYTHON/ C++/ HTML/FLUSK
 #### Social Media :
 
 <p left="center">
-<a href="https://twitter.com/MdEHAshiq">
+<a href="https://twitter.com/emhash__">
   <img src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" height=40>
 </a> 
-<a href="https://www.linkedin.com/in/md-e-h-ashiq/">
+<a href="https://www.linkedin.com/in/emhash/">
   <img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" height=40>
 </a> 
 <a href="http://www.facebook.com/E.H.Ashiq">
@@ -84,15 +84,15 @@ Skills: PYTHON/ C++/ HTML/FLUSK
   <img src="https://camo.githubusercontent.com/d54e97f5edde790381f7e62b217410df33e066a0dc8f692f2fc6b25fc1768b0c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f796f75747562652e737667" height=40>
 </a>
 
-<a href="github.com/Md-E-H-Ashiq">
+<a href="github.com/emhash">
   <img src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667" height=40>
 </a>
   
   
-<a href="https://www.instagram.com/md.e.h.ashiq/">
+<a href="https://www.instagram.com/emhash__/">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111421.png" height=40> </a>
   
- <a href="md.e.h.ashiq@gmail.com">
+ <a href="mailto:md.e.h.ashiq@gmail.com">
   <img src="https://camo.githubusercontent.com/4a3dd8d10a27c272fd04b2ce8ed1a130606f95ea6a76b5e19ce8b642faa18c27/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f676d61696c2e737667" height=40>
 </a>
 
