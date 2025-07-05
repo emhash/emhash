@@ -57,10 +57,10 @@ PYTHON, C, C++, Java, HTML, CSS, JavaScript, FLUSK, Django, Git, AWS, MySQL, MsW
 
 <h3 align="left">Social Media:</h3>
 
-[<img src='https://www.svgrepo.com/show/475647/facebook-color.svg' alt='facebook' height='40'>](https://www.facebook.com/E.H.Ashiq)
-[<img src='https://www.svgrepo.com/show/452229/instagram-1.svg' alt='instragram' height='40'>](https://www.instagram.com/md.e.h.ashiq/)
-[<img src='https://www.svgrepo.com/show/382726/linkedin-linked-in.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/emhash/)
-[<img src='https://www.svgrepo.com/show/349563/whatsapp.svg' alt='whatsapp' height='40'>](https://wa.me/8801610960031)
-[<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' height='40'>](https://twitter.com/emhash__)
+[<img src='https://www.svgrepo.com/show/475647/facebook-color.svg' alt='facebook' width="40" height='40'>](https://www.facebook.com/E.H.Ashiq)
+[<img src='https://www.svgrepo.com/show/452229/instagram-1.svg' alt='instragram' width="40" height='40'>](https://www.instagram.com/md.e.h.ashiq/)
+[<img src='https://www.svgrepo.com/show/382726/linkedin-linked-in.svg' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/emhash/)
+[<img src='https://www.svgrepo.com/show/349563/whatsapp.svg' alt='whatsapp' width="40" height='40'>](https://wa.me/8801610960031)
+[<img src='https://www.svgrepo.com/show/452123/twitter.svg' alt='twitter' width="40" height='40'>](https://twitter.com/emhash__)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=emhash)](https://github.com/ryo-ma/github-profile-trophy)
